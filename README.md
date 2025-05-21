@@ -40,9 +40,9 @@ Here are some ideas to get you started:
 <h3 align=""> I am passionate Data Scientist with interest in Machine Learning and using</h3>
 <h3 align=""> 
 
-🌱Also, I am Organizational and Industrial Psychology student with Business Development skill and I aim to apply psychological principles and strategies to enhance workplace productivity, efficiency, and employee well-being, boosting your organization's performance.
+🌱Also, I am a Data Science Alumini with ALX Africa and I aim to apply data science skills to enhance workplace productivity, efficiency, and employee well-being, boosting your organization's performance.
 
-🔭👋 I completed a capstone project at Azubi Africa's Data Analytics Professional Certification program and emerged as one of the best graduates.
+🔭👋 I completed real world projects with ALX/Explore AI and explored enterpreneurship.
 
 ## 👯 My projects & Porfolios
 - [View & Read](https://github.com/Richard-Mensah/Sepsis_Classification_Machine_Learning_API_using_FastAPI) **Sepsis Prediction with ML and FastAPI**
